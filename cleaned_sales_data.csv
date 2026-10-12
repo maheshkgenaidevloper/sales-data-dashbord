@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Region,Category,Product,Sales,Quantity,Discount,Profit,Payment_Mode,Segment,Year,Month,YearMonth,Profit_Margin
+ORD1001,2026-01-05,West,Technology,Laptop,55000,1,0.1,6500,UPI,Consumer,2026,1,2026-01,0.11818181818181818
+ORD1002,2026-01-08,South,Furniture,Office Chair,12000,2,0.05,2400,Credit Card,Corporate,2026,1,2026-01,0.2
+ORD1003,2026-01-12,North,Office Supplies,Notebook,1500,5,0.0,450,Cash,Consumer,2026,1,2026-01,0.3
+ORD1004,2026-01-17,East,Home & Kitchen,Mixer Grinder,4500,1,0.1,600,UPI,Consumer,2026,1,2026-01,0.13333333333333333
+ORD1005,2026-02-02,West,Technology,Smartphone,30000,1,0.05,3500,Credit Card,Consumer,2026,2,2026-02,0.11666666666666667
+ORD1006,2026-02-05,South,Furniture,Study Table,8000,1,0.0,1800,UPI,Corporate,2026,2,2026-02,0.225
+ORD1007,2026-02-11,North,Technology,Monitor,14000,2,0.1,1800,Net Banking,Corporate,2026,2,2026-02,0.12857142857142856
+ORD1008,2026-02-18,East,Office Supplies,Pen Set,500,10,0.0,150,Cash,Consumer,2026,2,2026-02,0.3
+ORD1009,2026-03-03,West,Home & Kitchen,Electric Kettle,2500,2,0.05,400,UPI,Consumer,2026,3,2026-03,0.16
+ORD1010,2026-03-07,South,Technology,Laptop,60000,1,0.1,7000,Net Banking,Corporate,2026,3,2026-03,0.11666666666666667
+ORD1011,2026-03-13,North,Furniture,Bookshelf,6500,1,0.0,1300,Credit Card,Consumer,2026,3,2026-03,0.2
+ORD1012,2026-03-21,East,Office Supplies,Printer Paper,1200,4,0.05,300,UPI,Small Business,2026,3,2026-03,0.25
+ORD1013,2026-04-04,West,Technology,Wireless Earbuds,3500,3,0.1,600,UPI,Consumer,2026,4,2026-04,0.17142857142857143
+ORD1014,2026-04-09,South,Home & Kitchen,Pressure Cooker,3200,2,0.0,550,Cash,Consumer,2026,4,2026-04,0.171875
+ORD1015,2026-04-15,North,Furniture,Dining Chair,9000,3,0.05,1800,Credit Card,Corporate,2026,4,2026-04,0.2
+ORD1016,2026-04-22,East,Technology,Smartphone,25000,1,0.0,3000,Net Banking,Consumer,2026,4,2026-04,0.12
+ORD1017,2026-05-02,West,Office Supplies,Desk Organizer,900,3,0.0,250,Cash,Small Business,2026,5,2026-05,0.2777777777777778
+ORD1018,2026-05-10,South,Technology,Monitor,16000,1,0.05,2100,UPI,Corporate,2026,5,2026-05,0.13125
+ORD1019,2026-05-18,North,Home & Kitchen,Table Lamp,1800,2,0.1,250,Credit Card,Consumer,2026,5,2026-05,0.1388888888888889
+ORD1020,2026-05-25,East,Furniture,Office Chair,11000,2,0.05,2200,UPI,Corporate,2026,5,2026-05,0.2
